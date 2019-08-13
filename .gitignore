@@ -1,2 +1,5 @@
 *.sqlite3
 .c9/.nakignore
+env.py
+__pycache__
+.c9
